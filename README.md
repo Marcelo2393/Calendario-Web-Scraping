@@ -20,7 +20,7 @@ Se desarrollaron scripts en Python para la generación, integración y exportaci
 
 ## 🏗️ Estructura del Proyecto
 
-📁 calendario/
+📁 calendario
 │
 
 ├── calendario_pais.py # Generación de calendario por país
