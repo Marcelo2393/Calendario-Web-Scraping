@@ -22,11 +22,17 @@ Se desarrollaron scripts en Python para la generación, integración y exportaci
 
 📁 calendario/
 │
+
 ├── calendario_pais.py # Generación de calendario por país
+
 ├── calendario_per_cl.py # Integración Perú + Chile
+
 ├── calendario_per_cl.ipynb # Análisis exploratorio
+
 ├── feriados_chile.csv
+
 ├── feriados_perú.csv
+
 ├── feriados_chile_peru.csv # Dataset consolidado
 
 
